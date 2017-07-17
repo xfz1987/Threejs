@@ -1,0 +1,283 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.7 5.7.3.4950 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl _3___Default
+Ka 0.588235 0.588235 0.588235
+Kd 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _9___Default
+Ka 0.780392 0.870588 0.87451
+Kd 0.780392 0.870588 0.87451
+Ks 0.898039 0.898039 0.898039
+illum 2
+Ns 548.748
+d 0.3
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl ___________
+Ka 0 0 0
+Kd 0.160784 0.160784 0.160784
+Ks 0.847059 0.847059 0.847059
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Glass_Car_Red_Reflector
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+illum 2
+Ns 2048
+d 0
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Glass_Car_2
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.0588235 0.0588235 0.0588235
+illum 2
+Ns 2048
+d 0.87451
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Glass_Car
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.0588235 0.0588235 0.0588235
+illum 2
+Ns 2048
+d 0.117647
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Coat_01
+Ka 0 0 0
+Kd 0.0431373 0 0
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Reflection_RefMap
+Ka 0 0 0
+Kd 0.5 0.5 0.5
+Ks 0.72549 0.72549 0.72549
+illum 2
+Ns 1663.49
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _2___Default
+Ka 0 0 0
+Kd 0.0196078 0.0196078 0.0196078
+Ks 0.0784314 0.0784314 0.0784314
+illum 2
+Ns 128
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl ____________
+Ka 0 0 0
+Kd 0.415686 0.415686 0.415686
+Ks 0.294118 0.294118 0.294118
+illum 2
+Ns 256
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Plastic_Black
+Ka 0 0 0
+Kd 0.0196078 0.0196078 0.0196078
+Ks 0.0784314 0.0784314 0.0784314
+illum 2
+Ns 128
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Reflection_RefMap0
+Ka 0 0 0
+Kd 0.5 0.5 0.5
+Ks 0.72549 0.72549 0.72549
+illum 2
+Ns 1663.49
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal_Chrome
+Ka 0 0 0
+Kd 0.929412 0.439216 0
+Ks 0.0588235 0.0588235 0.0588235
+illum 2
+Ns 891.444
+d 0.921569
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__11
+Ka 0 0 0
+Kd 0.5 0.5 0.5
+Ks 0.72549 0.72549 0.72549
+illum 2
+Ns 1663.49
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _8___Default
+Ka 0 0 0
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA C:\\Program Files\\Autodesk\\3ds Max 9\\maps\\ArchMat\\Metals.Ornamental Metals.Plate.Mesh.jpg
+map_Ns 
+
+newmtl _1___Default
+Ka 0 0 0
+Kd 0.0705882 0.0705882 0.0705882
+Ks 0.0705882 0.0705882 0.0705882
+illum 2
+Ns 181.019
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _6___Default
+Ka 0 0 0
+Kd 0.768628 0.768628 0.768628
+Ks 0 0 0
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
